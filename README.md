@@ -1,4 +1,4 @@
-#pwned dogo
+
 IP: 89.134.122.56
 Real Name : Attila Beres
 Age : 13
